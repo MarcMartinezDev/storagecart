@@ -1,0 +1,33 @@
+{
+  "name": "storagecart",
+  "version": "1.0.1",
+  "main": "dist/index.js",
+  "description": "A simple, type-safe shopping cart utility class that persists its data in `localStorage`. Ideal for frontend applications where you need to manage a cart without a backend.",
+  "keywords": [
+    "cart",
+    "shopping-cart",
+    "ecommerce",
+    "local-storage",
+    "typescript",
+    "store",
+    "react",
+    "vue",
+    "js",
+    "typescript-library"
+  ],
+  "type": "module",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vite": "^6.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "marcmartinezdev"
+}
