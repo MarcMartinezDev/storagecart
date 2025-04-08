@@ -2,6 +2,8 @@
 
 A simple, type-safe shopping cart utility class that persists its data in `localStorage`. Ideal for frontend applications where you need to manage a cart without a backend.
 
+[https://github.com/MarcMartinezDev/storagecart](https://github.com/MarcMartinezDev/storagecart).
+
 ---
 
 ## ✨ Features
@@ -134,3 +136,23 @@ Returns the total number of items (sum of all quantities) in the cart.
 Modern browser environment (uses localStorage)
 
 TypeScript support
+
+## Contributing
+
+- Fork the repository.
+
+- Create a new branch (git checkout -b feature-xyz).
+
+- Make your changes.
+
+- Commit your changes (git commit -am 'Add feature XYZ').
+
+- Push to the branch (git push origin feature-xyz).
+
+- Create a new Pull Request.
+
+You can find the repository on GitHub at [https://github.com/MarcMartinezDev/storagecart](https://github.com/MarcMartinezDev/storagecart).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
